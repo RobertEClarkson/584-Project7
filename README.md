@@ -14,10 +14,14 @@ https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects
 
 ## Day 4
 
-Better way to iterate though arrays with for loops:
+Better way to iterate through arrays/lists with for loops:
 
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/for...of
 
 Split and Trim for strings:
 
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/split
+
+Every, Includes, and Map for arrays:
+
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/every
