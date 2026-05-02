@@ -17,3 +17,7 @@ https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects
 Better way to iterate though arrays with for loops:
 
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/for...of
+
+Split and Trim for strings:
+
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/split
